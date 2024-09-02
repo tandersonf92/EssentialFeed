@@ -70,7 +70,6 @@ final class URLSessionHTTPClientTests: XCTestCase {
     }
 
     func test_getFromURL_failsOnAllNilValuesRequestError() {
-        URLProtocolStub.startInterceptingRequests()
         URLProtocolStub.stub(data: nil, response: nil,  error: nil)
 
         let exp = expectation(description: "Wait for completion")
