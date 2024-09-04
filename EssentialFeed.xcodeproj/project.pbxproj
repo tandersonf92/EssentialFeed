@@ -38,6 +38,7 @@
 		870634572C20C04800E9CD46 /* FeedItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItem.swift; sourceTree = "<group>"; };
 		870634592C20C0A400E9CD46 /* FeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedLoader.swift; sourceTree = "<group>"; };
 		8706345E2C20D68E00E9CD46 /* RemoteFeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoader.swift; sourceTree = "<group>"; };
+		870C93022C888A0000F38D37 /* EssentialFeedTestsPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = EssentialFeedTestsPlan.xctestplan; sourceTree = SOURCE_ROOT; };
 		8718027B2C81F488000EFFB4 /* URLSessionHTTPClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionHTTPClientTests.swift; sourceTree = "<group>"; };
 		87C4811E2C4D8F3400C17B8D /* HttpClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpClient.swift; sourceTree = "<group>"; };
 		87C481202C4D8FA400C17B8D /* FeedItemsMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItemsMapper.swift; sourceTree = "<group>"; };
@@ -88,6 +89,7 @@
 				8706345B2C20C22200E9CD46 /* FeedFeature */,
 				8706345D2C20D67B00E9CD46 /* FeedAPI */,
 				870634422C20BF2300E9CD46 /* EssentialFeed.h */,
+				870C93022C888A0000F38D37 /* EssentialFeedTestsPlan.xctestplan */,
 			);
 			path = EssentialFeed;
 			sourceTree = "<group>";
