@@ -1,15 +1,16 @@
 {
   "configurations" : [
     {
-      "id" : "29133238-946E-4086-BCA9-6B2E6A8AF6B1",
+      "id" : "1F3C9A6D-EFDC-4477-B1FF-F0A6999E05C8",
       "name" : "Configuration 1",
       "options" : {
-
+        "testExecutionOrdering" : "random"
       }
     }
   ],
   "defaultOptions" : {
-    "testExecutionOrdering" : "random"
+    "testExecutionOrdering" : "random",
+    "threadSanitizerEnabled" : true
   },
   "testTargets" : [
     {
